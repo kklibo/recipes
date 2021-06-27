@@ -1,4 +1,10 @@
 # Recipes
+[Pemmican](#pemmican)
+
+[Powdered Dehydrated Beef](#powdered-dehydrated-beef)
+
+[Pseudopemmican](#pseudopemmican)
+
 ## Pemmican
 A simplified modern version of the historical cold-weather survival food.
 
